@@ -1,1 +1,1 @@
-# dice_empire_fx
+# dice_empire_admin
